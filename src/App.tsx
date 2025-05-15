@@ -1,12 +1,12 @@
 
+import './App.css'
+import { MainScreen } from './Components/screens/MainScreen'
 
 function App() {
 
 
   return (
-    <div>
-    {/* Acá empieza la app. */}
-    </div>
+    <MainScreen/>
   )
 }
 
